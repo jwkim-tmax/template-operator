@@ -1,4 +1,4 @@
-module template-operator
+module github.com/jwkim-tmax/template-operator
 
 go 1.13
 
